@@ -1,0 +1,10 @@
+export const addressAlice = "0xdcac48e40ECCfCC71B0D37C1723bc5a758a4977D";
+export const pkAlice = "f903265944e3e46e4ae22b03d7474b1821172f4f8841a483d800dd3f1212f904";
+export const addressBob = "0x072af39c3dE8BC3886345f12417483b27716f7BD";
+export const pkBob = "876ae4b831454384e6025a24aac5c90a6952a1fb3b7bbcd38e2bfc8df4a37d34";
+export const addressTony = "0x058cbc2D5756021C988F6aEc1ae0996D91188ce8";
+export const pkTony = "8005f766b08fe5929133fad2f3497b91a90db6262ce7e9a62c242352b625c3ac";
+export const addressKasner = "0x2059FcA8e3F89e43934c6243D2824a31161FA69A";
+export const addressProportional = "0x55B403B7e94cD922686Ff3b113fd263baEDCF333";
+export const addressToken = "0xA6D97Fd20899081f1f709fBe5856Aa1211099A83";
+export const rpc = "https://polygon-mumbai.blockpi.network/v1/rpc/public";

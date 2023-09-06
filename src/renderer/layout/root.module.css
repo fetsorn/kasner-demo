@@ -1,0 +1,16 @@
+.main {
+}
+
+.feed {
+    background-color: gray;
+}
+
+.cards {
+    display: flex;
+    justify-content: space-between;
+}
+
+.options {
+    display: flex;
+    flex-direction: column;
+}
