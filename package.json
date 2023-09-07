@@ -57,6 +57,7 @@
     "i18next-browser-languagedetector": "7.1.0",
     "i18next-http-backend": "2.2.1",
     "isomorphic-git": "^1.24.5",
+    "merkletreejs": "^0.3.10",
     "mini-css-extract-plugin": "2.7.6",
     "normalize.css": "8.0.1",
     "react": "18.2.0",
